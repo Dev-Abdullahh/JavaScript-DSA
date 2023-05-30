@@ -4,3 +4,9 @@ button{
     border-radius: 15px;
     cursor: pointer;
 }
+#para{
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: aliceblue;
+}
